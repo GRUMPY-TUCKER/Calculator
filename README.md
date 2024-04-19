@@ -1,2 +1,2 @@
 # Calculator
- Design a basic calculatir
+ Design a basic calculator
